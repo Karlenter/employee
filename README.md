@@ -16,7 +16,10 @@
     ├── src/main/resources/application.properties             // 配置存在的文件目录
     
     ├── src/main/java/com/karl   src/main/resources/com/karl/mapper  //代码路径
- 
+    
+ # 提示：
+     因为我不会前端工程vue-element-admin所以我尝试使用vue-elemenet来写出符合条件的代码，但
+     是不尽人意，就没有放在项目上面，linux测试题我并不会写只会熟练使用
 
 
  
